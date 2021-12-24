@@ -5,7 +5,7 @@ late but not out of the game
 
 |SU|MO|TU|WE|TH|FR|SA|
 |-|-|-|-|-|-|-|
-||||:heavy_check_mark:|:heavy_check_mark:|||
+||||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 ||||||||
 ||||||||
 |||||||
